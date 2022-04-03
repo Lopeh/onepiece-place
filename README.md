@@ -1,7 +1,7 @@
 # onepiece-place
 OnePiece /r/place repo to store the template and script for outlining the place to put titles 
 
-This script & repo are cloned from [Anticept/httyd-place] to allow multiple people to be able to update the template image.
+This script & repo are cloned from [Anticept/httyd-place](https://github.com/anticept/httyd-place) to allow multiple people to be able to update a template image.
 
 ## HOW TO USE THE TEMPLATE AND SCRIPT ON /r/place
 Our friends at r/osuplace have made an overlay script! Use this to make sure you're placing pixels in the right spot.
