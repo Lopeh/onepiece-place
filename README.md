@@ -29,7 +29,9 @@ Head back to r/place, and do a hard refresh (ctrl+shift+r / ctrl+f5). You should
 
 ## Coordination Efforts
 
-We're coordinating at [discord.gg/QpgpC53aSr] and on [reddit.com/r/onepiece]
+We're coordinating at [discord.gg/QpgpC53aSr] and on [reddit.com/r/onepiece].
+
+When updates in #announcements are made, hard-refresh the page to get the latest templates.
 
 ## To edit the template:
 
