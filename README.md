@@ -25,7 +25,7 @@ Install/click [userscript.user.js](userscript.user.js) from this repository to t
 Head back to r/place, and do a hard refresh (ctrl+shift+r / ctrl+f5). You should see something like this if it's working:
 ![image](https://user-images.githubusercontent.com/13429544/161412869-e1ae8ed2-77cf-4592-b8d6-48ef5fa1e3ec.png)
 
-*The small squares are the intended color. Hover over them and select the right color, then place!
+*The small squares are the intended color. Hover over them and select the right color, then place!*
 
 ## Coordination Efforts
 
