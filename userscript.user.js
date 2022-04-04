@@ -19,10 +19,10 @@ if (window.top !== window.self) {
             window.addEventListener("keydown", function(event) {                
                 // Hide the image with the F4 key
                 if(event.key == "F4"){
-                    console.log('showing/hiding/refreshing onepiece...');
+                    console.log('showing/hiding/refreshing onepiece...' + newDate());
                     if (i.style.display === "none") {
                         // Refresh the image!
-                        i.src = "https://raw.githubusercontent.com/lopeh/onepiece-place/main/onepiece_template.png";
+                        i.src = "https://raw.githubusercontent.com/lopeh/onepiece-place/main/onepiece_template.png" + ? + newDate();
                         i.style.display = "block";
                     } else {
                         i.style.display = "none";
