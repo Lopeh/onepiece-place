@@ -91,7 +91,7 @@
     const getAllyImage = async (src) => {
         const i = document.createElement("img");
         i.src = src;
-        i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
+        i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;display: none;";
         return i;
     };
 
