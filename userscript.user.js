@@ -19,6 +19,7 @@ if (window.top !== window.self) {
             document.addEventListener("keydown", function(event) {                
                 // Hide the image with the F4 key
                 if(event.key == "F4"){
+                    console.log('showing/hiding/refreshing onepiece...');
                     if (i.style.display === "none") {
                         // Refresh the image!
                         i.src = "https://raw.githubusercontent.com/lopeh/onepiece-place/main/onepiece_template.png";
