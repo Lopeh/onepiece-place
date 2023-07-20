@@ -37,7 +37,7 @@ Now you should see our pixels outlined in the template. Start placing!
 
 ## Coordination Efforts
 
-We're coordinating at [discord.gg/QpgpC53aSr] and on [reddit.com/r/onepiece].
+We're coordinating at [OnePlace Discord](discord.gg/QpgpC53aSr) and on [r/OnePlace](reddit.com/r/onepiece).
 
 When updates in #announcements are made, hard-refresh the page to get the latest templates.
 
