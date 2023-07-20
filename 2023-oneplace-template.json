@@ -1,0 +1,15 @@
+{
+  "contact": "chelmu on discord",
+  "templates": [
+    {
+      "name": "One piece sogeking art",
+      "sources": [
+        "https://github.com/Lopeh/onepiece-place/blob/9a6c91c26ee2f82686776c426b67e66133494927/ShootTheFlagBorder.png"
+      ],
+      "x": -368,
+      "y": 137
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
