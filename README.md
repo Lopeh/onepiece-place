@@ -23,8 +23,12 @@ Install/click [templateManager.user.js](https://github.com/osuplace/templateMana
 ### Running (Step 3: Inject OnePlace template!)
 
 Head back to r/place, and do a hard refresh (ctrl+shift+r / ctrl+f5). You should see a new hamburger menu like this if it's working:
+![image](https://github.com/Lopeh/onepiece-place/assets/13429544/07115573-0236-421f-bccf-448b7c2f3e88)
 
-
+Open the menu and add our template into the Always Load section:
+  Our template URL: https://raw.githubusercontent.com/Lopeh/onepiece-place/main/2023-oneplace-template.json
+  What it should look like:
+![image](https://github.com/Lopeh/onepiece-place/assets/13429544/f9c5791e-0b18-42ff-96a2-6729100dd0c9)
 
 ### Place!
 
