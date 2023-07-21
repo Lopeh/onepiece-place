@@ -24,6 +24,14 @@
       ],
       "x": 274,
       "y": 618
+    },
+    {
+      "name": "One Piece AsCE art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/AsCE_v01.png"
+      ],
+      "x": 241,
+      "y": 635
     }
   ],
   "whitelist": [
