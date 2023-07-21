@@ -2,12 +2,20 @@
   "contact": "chelmu on discord",
   "templates": [
     {
-      "name": "One piece sogeking art",
+      "name": "One Piece sogeking art",
       "sources": [
         "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/DevilFruits_v03.png"
       ],
       "x": 191,
       "y": 637
+    },
+    {
+      "name": "One Piece Nika art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/nika_v01.png"
+      ],
+      "x": 238,
+      "y": 696
     }
   ],
   "whitelist": [],
