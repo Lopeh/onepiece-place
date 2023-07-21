@@ -28,10 +28,10 @@
     {
       "name": "One Piece AsCE art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/AsCE_v01.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/AsCE_v02.png"
       ],
       "x": 241,
-      "y": 635
+      "y": 633
     }
   ],
   "whitelist": [
