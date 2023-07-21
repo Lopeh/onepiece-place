@@ -50,6 +50,10 @@
     {
       "name": "Oshi no ko Template - Alliance via @Kariz",
       "url": "http://ub8qbd.satdump.org/oshinoko.json"
+    }, 
+    {
+      "name": "Community southright of us",
+      "url": "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/superstonk.json"
     }
   ],
   "blacklist": []
