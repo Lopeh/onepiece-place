@@ -32,6 +32,14 @@
       ],
       "x": 241,
       "y": 631
+    },
+    {
+      "name": "One Piece Nika art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_v01.png"
+      ],
+      "x": 1375,
+      "y": 625
     }
   ],
   "whitelist": [
