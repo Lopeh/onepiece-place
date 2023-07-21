@@ -26,6 +26,11 @@
       "y": 618
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "Oshi no ko Template 1 - Alliance with @Kariz",
+      "url": "http://ub8qbd.satdump.org/umasenko.json"
+    }
+  ],
   "blacklist": []
 }
