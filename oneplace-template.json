@@ -50,6 +50,10 @@
     {
       "name": "Oshi no ko Template - Alliance via @Kariz",
       "url": "http://ub8qbd.satdump.org/oshinoko.json"
+    },
+    {
+      "name": "Oshi no ko Template 2 - Alliance via @Kariz",
+      "url": "http://ub8qbd.satdump.org/waitroom.json"
     }
   ],
   "blacklist": []
