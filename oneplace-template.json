@@ -8,6 +8,14 @@
       ],
       "x": 191,
       "y": 637
+    },
+    {
+      "name": "One Piece gear 2 art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/Gear2_v01.png"
+      ],
+      "x": 254,
+      "y": 635
     }
   ],
   "whitelist": [],
