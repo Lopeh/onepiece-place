@@ -28,8 +28,12 @@
   ],
   "whitelist": [
     {
-      "name": "Oshi no ko Template 1 - Alliance with @Kariz",
+      "name": "Uma Senko Template - Alliance via @Kariz",
       "url": "http://ub8qbd.satdump.org/umasenko.json"
+    },
+    {
+      "name": "Oshi no ko Template - Alliance via @Kariz",
+      "url": "http://ub8qbd.satdump.org/oshinoko.json"
     }
   ],
   "blacklist": []
