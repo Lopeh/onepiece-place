@@ -48,6 +48,14 @@
       ],
       "x": 1625,
       "y": 625
+    },
+    {
+      "name": "One Piece Shanks art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/shanks_new_era_v02.png"
+      ],
+      "x": 0,
+      "y": 928
     }
   ],
   "whitelist": [{
