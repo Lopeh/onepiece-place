@@ -50,8 +50,10 @@
       "y": 625
     }
   ],
-  "whitelist": [
-
+  "whitelist": [{
+      "name": "Oshi no ko Template - Alliance via @Kariz",
+      "url": "http://ub8qbd.satdump.org/waitroom.json"
+    }
   ],
   "blacklist": []
 }
