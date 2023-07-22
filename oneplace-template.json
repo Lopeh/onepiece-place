@@ -33,6 +33,14 @@
       "x": 741,
       "y": 631
     },
+	{
+      "name": "One Piece Zorro Nothing Happened",
+      "sources": [
+        "https://raw.githubusercontent.com/einFreak/onepiece-place/ZorroNothing/templates/Zorro_v03.png"
+      ],
+      "x": 133,
+      "y": 133
+    }
     {
       "name": "One Piece Nika art",
       "sources": [
