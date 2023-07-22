@@ -56,6 +56,9 @@
     },{
       "name": "Bluey Community via @Hats Off!",
       "url": "https://raw.githubusercontent.com/jalenluorion/helpme/main/bluey.json"
+    },{
+      "name": "French Template!",
+      "url": "https://sayrix.github.io/PlaceFR/overlay.json"
     }
   ],
   "blacklist": []
