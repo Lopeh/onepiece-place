@@ -53,6 +53,9 @@
   "whitelist": [{
       "name": "Oshi no ko Template - Alliance via @Kariz",
       "url": "http://ub8qbd.satdump.org/waitroom.json"
+    },{
+      "name": "Bluey Community via @Hats Off!",
+      "url": "https://raw.githubusercontent.com/jalenluorion/helpme/main/bluey.json"
     }
   ],
   "blacklist": []
