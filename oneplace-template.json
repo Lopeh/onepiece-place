@@ -7,7 +7,7 @@
         "https://raw.githubusercontent.com/einFreak/onepiece-place/main/templates/DevilFruits_v09.png"
       ],
       "x": 691,
-      "y": 637
+      "y": 1137
     },
     {
       "name": "One Piece gear 2 art",
@@ -15,7 +15,7 @@
         "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/Gear2_v05.png"
       ],
       "x": 754,
-      "y": 635
+      "y": 1135
     },
     {
       "name": "One Piece ChibiChopper",
@@ -23,7 +23,7 @@
         "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/ChibiChopper_v04.png"
       ],
       "x": 774,
-      "y": 618
+      "y": 1118
     },
     {
       "name": "One Piece AsCE art",
@@ -31,7 +31,7 @@
         "https://raw.githubusercontent.com/einFreak/onepiece-place/main/templates/AsCE_v05.png"
       ],
       "x": 741,
-      "y": 631
+      "y": 1131
     },
 	{
       "name": "One Piece Zorro Nothing Happened",
@@ -39,15 +39,15 @@
         "https://raw.githubusercontent.com/einFreak/onepiece-place/main/templates/Zorro_v06.png"
       ],
       "x": 133,
-      "y": 133
+      "y": 633
     },
     {
       "name": "One Piece Nika art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_v08.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_v09.png"
       ],
       "x": 1625,
-      "y": 625
+      "y": 1125
     },
     {
       "name": "One Piece Shanks art",
@@ -55,7 +55,7 @@
         "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/shanks_new_era_v03.png"
       ],
       "x": 0,
-      "y": 831
+      "y": 1331
     }
   ],
   "whitelist": [{
