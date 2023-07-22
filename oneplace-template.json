@@ -2,9 +2,9 @@
   "contact": "chelmu on discord",
   "templates": [
     {
-      "name": "One Piece sogeking art",
+      "name": "Devil Fruits art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/DevilFruits_v08.png"
+        "https://raw.githubusercontent.com/einFreak/onepiece-place/main/templates/DevilFruits_v09.png"
       ],
       "x": 691,
       "y": 637
@@ -28,7 +28,7 @@
     {
       "name": "One Piece AsCE art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/AsCE_v04.png"
+        "https://raw.githubusercontent.com/einFreak/onepiece-place/main/templates/AsCE_v05.png"
       ],
       "x": 741,
       "y": 631
