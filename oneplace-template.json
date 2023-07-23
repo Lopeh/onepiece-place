@@ -60,7 +60,7 @@
     {
       "name": "One Piece 4 Yonkos art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/4yonkos_v05.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/4yonkos_v06.png"
       ],
       "x": 377,
       "y": 209
@@ -72,6 +72,14 @@
       ],
       "x": 640,
       "y": 278
+    },
+    {
+      "name": "Yeezy Bear art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/yeezy_bear_v01.png"
+      ],
+      "x": 59,
+      "y": 1901 
     }
   ],
   "whitelist": [{
@@ -86,6 +94,12 @@
     },{
       "name": "ATLA Template!",
       "url": "https://raw.githubusercontent.com/Lopeh/atla-place/main/atla-template.json"
+    },{
+      "name": "BurryIRL Template!",
+      "url": "https://gist.githubusercontent.com/Furryirlburner1/09ce4195fada18db6dc5e32e30a8e34b/raw"
+    },{
+      "name": "Femboy Template!",
+      "url": "https://pastebin.com/raw/ESaN3Csh"
     }
   ],
   "blacklist": []
