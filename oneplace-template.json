@@ -1,39 +1,6 @@
 {
   "contact": "chelmu on discord",
-  "templates": [
-    {
-      "name": "Devil Fruits art",
-      "sources": [
-        "https://raw.githubusercontent.com/einFreak/onepiece-place/main/templates/DevilFruits_v09.png"
-      ],
-      "x": 691,
-      "y": 1137
-    },
-    {
-      "name": "One Piece gear 2 art",
-      "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/Gear2_v05.png"
-      ],
-      "x": 754,
-      "y": 1135
-    },
-    {
-      "name": "One Piece ChibiChopper",
-      "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/ChibiChopper_v04.png"
-      ],
-      "x": 774,
-      "y": 1118
-    },
-    {
-      "name": "One Piece AsCE art",
-      "sources": [
-        "https://raw.githubusercontent.com/einFreak/onepiece-place/main/templates/AsCE_v05.png"
-      ],
-      "x": 741,
-      "y": 1131
-    },
-	{
+  "templates": [{
       "name": "One Piece Zorro Nothing Happened",
       "sources": [
         "https://raw.githubusercontent.com/einFreak/onepiece-place/main/templates/Zorro_v06.png"
