@@ -39,6 +39,14 @@
       ],
       "x": 469,
       "y": 1854 
+    },
+    {
+      "name": "Berserk swords art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/berserk_swords_v01.png"
+      ],
+      "x": 1600,
+      "y": 1900 
     }
   ],
   "whitelist": [{
