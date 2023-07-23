@@ -8,6 +8,14 @@
       ],
       "x": 1625,
       "y": 1125
+    },
+    {
+      "name": "Pusheen Hat art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/PusheenHat_v01.png"
+      ],
+      "x": 640,
+      "y": 278
     }
   ],
   "whitelist": [],
