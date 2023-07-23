@@ -66,14 +66,6 @@
       "y": 209
     },
     {
-      "name": "Pusheen Hat art",
-      "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/PusheenHat_v01.png"
-      ],
-      "x": 640,
-      "y": 278
-    },
-    {
       "name": "Yeezy Bear art",
       "sources": [
         "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/yeezy_bear_v01.png"
@@ -100,6 +92,9 @@
     },{
       "name": "Femboy Template!",
       "url": "https://pastebin.com/raw/ESaN3Csh"
+    },{
+      "name": "Pusheen et al Template!",
+      "url": "https://pastebin.com/raw/mDjcHCTn"
     }
   ],
   "blacklist": []
