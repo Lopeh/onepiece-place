@@ -75,6 +75,9 @@
     },{
       "name": "French Template!",
       "url": "https://sayrix.github.io/PlaceFR/overlay.json"
+    },{
+      "name": "ATLA Template!",
+      "url": "https://raw.githubusercontent.com/Lopeh/atla-place/main/atla-template.json"
     }
   ],
   "blacklist": []
