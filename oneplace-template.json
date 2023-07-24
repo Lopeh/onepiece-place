@@ -63,8 +63,8 @@
     },{
       "name": "Best Nakama",
       "sources": ["https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/best_nakama_v00.png"],
-      "x": 2662,
-      "y": 1250
+      "x": 2637,
+      "y": 1150
     }
   ],
   "whitelist": [{
