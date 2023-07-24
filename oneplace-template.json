@@ -59,7 +59,7 @@
       "name": "yzybear",
       "sources": ["https://media.discordapp.net/attachments/1132344722275446845/1132750999552008212/YEEZYBEAR_final_pixel_perfect_version.png"],
       "x": 2784,
-      "y": 1395
+      "y": 1480
     }
   ],
   "whitelist": [{
@@ -98,6 +98,9 @@
     },{
       "name": "DDLC Template!",
       "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/ksddlc.json"
+    },{
+      "name": "ADO Template!",
+      "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
     }
   ],
   "blacklist": []
