@@ -65,6 +65,11 @@
       "sources": ["https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/best_nakama_v00.png"],
       "x": 2637,
       "y": 1150
+    },{
+      "name": "Jolly Roger",
+      "sources": ["https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/jolly_roger_v00.png"],
+      "x": 2216,
+      "y": 1971
     }
   ],
   "whitelist": [{
@@ -106,6 +111,9 @@
     },{
       "name": "Bersek Template!",
       "url": "https://pastebin.com/raw/4a1eZMNs"
+    },{
+      "name": "Catalonia? Template!",
+      "url": "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart.json"
     }
   ],
   "blacklist": []
