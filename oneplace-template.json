@@ -103,6 +103,9 @@
     },{
       "name": "r/Omori Template!",
       "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+    },{
+      "name": "DDLC Template!",
+      "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/ksddlc.json"
     }
   ],
   "blacklist": []
