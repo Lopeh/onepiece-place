@@ -75,5 +75,8 @@
       "url": "https://pastebin.com/raw/3AbTbzgp"
     }
   ],
-  "blacklist": []
+  "blacklist": [{
+    "name": "Old Oshi no ko Template",
+    "url": "http://ub8qbd.satdump.org/waitroom.json"
+  }]
 }
