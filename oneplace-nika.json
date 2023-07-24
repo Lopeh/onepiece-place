@@ -8,13 +8,6 @@
       ],
       "x": 2500,
       "y": 1682
-    },{
-      "name": "DDLC Monika",
-      "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/ddlc_monika_v01.png"
-      ],
-      "x": 2872,
-      "y": 803
     }
   ],
   "whitelist": [],
