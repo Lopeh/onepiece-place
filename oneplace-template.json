@@ -43,7 +43,7 @@
     {
       "name": "Roger v Whitebeard art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/roger_vs_whitebeard_v00.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/roger_vs_whitebeard_v01.png"
       ],
       "x": 0,
       "y": 753
@@ -73,6 +73,9 @@
     },{
       "name": "Bersek Template!",
       "url": "https://pastebin.com/raw/3AbTbzgp"
+    },{
+      "name": "MLP Template!",
+      "url": "http://ponyplace-cdn.ferrictorus.com//mlp/endu_template.json"
     }
   ],
   "blacklist": [{
