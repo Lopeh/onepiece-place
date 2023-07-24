@@ -103,10 +103,10 @@
     },{
       "name": "ADO Template!",
       "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
+    },{
+      "name": "Bersek Template!",
+      "url": "https://pastebin.com/raw/4a1eZMNs"
     }
   ],
-  "blacklist": [{
-    "name": "Bersek Template!",
-    "url": "https://pastebin.com/raw/4a1eZMNs"
-  }]
+  "blacklist": []
 }
