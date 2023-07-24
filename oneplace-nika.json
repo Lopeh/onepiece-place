@@ -2,20 +2,12 @@
   "contact": "Hamalot on discord",
   "templates": [
     {
-      "name": "One Piece Nika art",
+      "name": "Enel Shocked art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_int_v08.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/enel_shocked_v00.png"
       ],
-      "x": 1625,
-      "y": 1125
-    },
-    {
-      "name": "Pusheen Hat art",
-      "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/PusheenHat_v01.png"
-      ],
-      "x": 640,
-      "y": 278
+      "x": 2500,
+      "y": 1682
     }
   ],
   "whitelist": [],
