@@ -67,7 +67,7 @@
   ],
   "whitelist": [{
       "name": "Oshi no ko Template - Alliance via @Kariz",
-      "url": "https://gist.githubusercontent.com/SquirrelKiev/35c4a6c50c3004e80b9c40136d59a4cc/raw/5fbfaec06d5348192d23afe62f4b37af8685fd87/4waycolab.json"
+      "url": "http://ub8qbd.satdump.org/waitroom.json"
     },{
       "name": "Bluey Community via @Hats Off!",
       "url": "https://raw.githubusercontent.com/jalenluorion/helpme/main/bluey.json"
@@ -100,8 +100,5 @@
       "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
     }
   ],
-  "blacklist": [{
-    "name": "Old Oshi no ko Template",
-    "url": "http://ub8qbd.satdump.org/waitroom.json"
-  }]
+  "blacklist": []
 }
