@@ -43,7 +43,7 @@
     {
       "name": "Roger v Whitebeard art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/roger_vs_whitebeard_v02.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/roger_vs_whitebeard_v03.png"
       ],
       "x": 0,
       "y": 753
@@ -70,7 +70,7 @@
       "name": "ATLA Template!",
       "url": "https://raw.githubusercontent.com/Lopeh/atla-place/main/atla-template.json"
     },{
-      "name": "BurryIRL Template!",
+      "name": "FurryIRL Template!",
       "url": "https://gist.githubusercontent.com/Furryirlburner1/09ce4195fada18db6dc5e32e30a8e34b/raw"
     },{
       "name": "Femboy Template!",
@@ -84,6 +84,9 @@
     },{
       "name": "MLP Template!",
       "url": "http://ponyplace-cdn.ferrictorus.com//mlp/endu_template.json"
+    },{
+      "name": "Cellbit Template!",
+      "url": "https://rentry.co/cellbit_place/raw"
     }
   ],
   "blacklist": [{
