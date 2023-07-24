@@ -84,9 +84,6 @@
       "name": "Pusheen et al Template!",
       "url": "https://pastebin.com/raw/mDjcHCTn"
     },{
-      "name": "Bersek Template!",
-      "url": "https://pastebin.com/raw/4a1eZMNs"
-    },{
       "name": "MLP Template!",
       "url": "http://ponyplace-cdn.ferrictorus.com//mlp/endu_template.json"
     },{
@@ -103,5 +100,8 @@
       "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
     }
   ],
-  "blacklist": []
+  "blacklist": [{
+    "name": "Bersek Template!",
+    "url": "https://pastebin.com/raw/4a1eZMNs"
+  }]
 }
