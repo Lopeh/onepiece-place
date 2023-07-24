@@ -43,7 +43,7 @@
     {
       "name": "Roger v Whitebeard art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/roger_vs_whitebeard_v03.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/roger_vs_whitebeard_v04.png"
       ],
       "x": 0,
       "y": 753
@@ -51,7 +51,7 @@
     {
       "name": "Pusheen Hat art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/PusheenHat_v05.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/PusheenHat_v06.png"
       ],
       "x": 1238,
       "y": 1956
@@ -87,6 +87,9 @@
     },{
       "name": "Cellbit Template!",
       "url": "https://rentry.co/cellbit_place/raw"
+    },{
+      "name": "r/Omori Template!",
+      "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
     }
   ],
   "blacklist": [{
