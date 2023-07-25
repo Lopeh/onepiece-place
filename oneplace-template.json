@@ -72,7 +72,9 @@
       "y": 1971
     }
   ],
-  "whitelist": [
-  ],
+  "whitelist": [{
+    "name": "Gaimon Template!",
+    "url": "https://jsonbin.org/zeekii/public/oneplace/1fb1ea06-29ac-11ee-9076-b571acbf464d"
+  }],
   "blacklist": []
 }
