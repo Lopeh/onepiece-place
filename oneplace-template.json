@@ -11,7 +11,7 @@
     {
       "name": "One Piece Nika art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_v10.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_v11.png"
       ],
       "x": 2125,
       "y": 1125
@@ -73,9 +73,6 @@
     }
   ],
   "whitelist": [{
-    "name": "Gaimon Template!",
-    "url": "https://jsonbin.org/zeekii/public/oneplace/1fb1ea06-29ac-11ee-9076-b571acbf464d"
-  },{
     "name": "DDLC Template!",
     "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/ksddlc.json"
   }],
