@@ -72,52 +72,7 @@
       "y": 1971
     }
   ],
-  "whitelist": [{
-      "name": "Oshi no ko Template - Alliance via @Kariz",
-      "url": "http://ub8qbd.satdump.org/waitroom.json"
-    },{
-      "name": "Bluey Community via @Hats Off!",
-      "url": "https://raw.githubusercontent.com/jalenluorion/helpme/main/bluey.json"
-    },{
-      "name": "French Template!",
-      "url": "https://sayrix.github.io/PlaceFR/overlay.json"
-    },{
-      "name": "ATLA Template!",
-      "url": "https://raw.githubusercontent.com/Lopeh/atla-place/main/atla-template.json"
-    },{
-      "name": "FurryIRL Template!",
-      "url": "https://gist.githubusercontent.com/Furryirlburner1/09ce4195fada18db6dc5e32e30a8e34b/raw"
-    },{
-      "name": "Femboy Template!",
-      "url": "https://pastebin.com/raw/ESaN3Csh"
-    },{
-      "name": "Pusheen et al Template!",
-      "url": "https://pastebin.com/raw/mDjcHCTn"
-    },{
-      "name": "MLP Template!",
-      "url": "http://ponyplace-cdn.ferrictorus.com//mlp/endu_template.json"
-    },{
-      "name": "Cellbit Template!",
-      "url": "https://rentry.co/cellbit_place/raw"
-    },{
-      "name": "r/Omori Template!",
-      "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
-    },{
-      "name": "DDLC Template!",
-      "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/ksddlc.json"
-    },{
-      "name": "ADO Template!",
-      "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
-    },{
-      "name": "Bersek Template!",
-      "url": "https://pastebin.com/raw/4a1eZMNs"
-    },{
-      "name": "Catalonia? Template!",
-      "url": "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart.json"
-    },{
-      "name": "Gaimon Template!",
-      "url": "https://jsonbin.org/zeekii/public/oneplace/1fb1ea06-29ac-11ee-9076-b571acbf464d"
-    }
+  "whitelist": [
   ],
   "blacklist": []
 }
