@@ -75,6 +75,15 @@
   "whitelist": [{
     "name": "Gaimon Template!",
     "url": "https://jsonbin.org/zeekii/public/oneplace/1fb1ea06-29ac-11ee-9076-b571acbf464d"
+  },{
+    "name": "DDLC Template!",
+    "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/ksddlc.json"
   }],
-  "blacklist": []
+  "blacklist": [{
+    "name": "21P",
+    "url": "https://raw.githubusercontent.com/rattbag/ksddlc/main/top.json"
+  },{
+    "name": "Omori",
+    "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+  }]
 }
